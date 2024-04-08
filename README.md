@@ -12,7 +12,8 @@ Repositório para armazenar materiais do curso de versionamento de código no Gi
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando Alterações no Repositório Local|[Resumo]()|
+|Aula 01|[Resumo]()|
+|Aula 02|[Resumo]()|
 
 ---
 
